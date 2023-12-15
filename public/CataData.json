@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/nBfT8NN/Digital-Multimeter-EE.jpg",
+    "title": "UNI-T UT890D+",
+    "model": "MIS-00555",
+    "tk": 2672.18,
+    "description": "infrared sensor analog output combined  PID algorithm, stable line trackin Onboard modules like line tracking obstacle avoiding needs no messy wiring TB6612FNG dual Hbridge motor driver comparedL298P it's more efficient,more compact,and less heating N20 micro gear motormetal gears, low noise, high accuracy Onboard RGB LEDs, true color lighting, pretty cool"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/TgGc9Vs/Digital-IR-Sensor-Array4-TCRT5000-RC.jpg",
+    "title": "Digital IR Sensor",
+    "model": "ROB-00162",
+    "tk": 199.67,
+    "description": "High sensitivity.Fast response and resume.long life.low cost. Mini size."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/71CrkV8/Battery-Tester-1-EE.jpg",
+    "title": "Battery Tester",
+    "model": " MIS-00516",
+    "tk": 320.28,
+    "description": "High sensitivity.Fast response and resume.long life.low cost. Mini size."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/h8PNW3g/servo-tester.png",
+    "title": "Server tester",
+    "model": "ROB-00095",
+    "tk": 1359.45,
+    "description": "Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions.Play music from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, TuneIn, and iHeartRadio.Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device.Controls lights, locks, thermostats, and more with compatible connected devices.Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/6DpFX2W/Arduino-LCD-Keypad-Shield-1-EE.jpg",
+    "title": "Arduino LCD Keypad Shield ",
+    "model": "ARD-00056",
+    "tk": 740,
+    "description": "Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions.Play music from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, TuneIn, and iHeartRadio.Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device.Controls lights, locks, thermostats, and more with compatible connected devices.Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/fn9Q0SJ/Spark-Fun-USB-Host-Shield-AR.jpg",
+    "title": "SparkFun USB Host Shield",
+    "model": " ARD-00005",
+    "tk": 2450.47,
+    "description": "Multifunctional brackets x 4.Long U shape brackets  x  2.Long U shape brackets with servo cutout  x  1.L shape brackets  x 2.U beam brackets  x  2."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/rwWkFFh/a000066-front-2-1-1-1-EE-1.jpg",
+    "title": "Arduino Video Game Shield",
+    "model": "ARD-00011",
+    "tk": 2499.2,
+    "description": "High sensitivity.Fast response and resume.long life.low cost. Mini size."
+  },
+  {
+    "id": 8,
+    "image": " https://i.ibb.co/3k2x1m6/image-14.jpg",
+    "title": "6DOF Robotic Arm ",
+    "model": "ROB-00191",
+    "tk": 3215.03,
+    "description": "Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions.Play music from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, TuneIn, and iHeartRadio.Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device.Controls lights, locks, thermostats, and more with compatible connected devices.Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/H2cCs0G/Servo-Generic-Metal-Gear-Micro-Size-RC.jpg",
+    "title": "Servo-Generic Metal Gear",
+    "model": "ROB-00080",
+    "tk": 1050.15,
+    "description": "True RMS measurement.Audio visual NCV detection.Large LCD with backlight.Full-featured false detection protection for up to 600 V energy surges overvoltage and overcurrent alarm functions.Low battery indication."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/vZBHTsz/image-13-ex.jpg",
+    "title": "Alcohol Sensor Module",
+    "model": "SEN-00044",
+    "tk": 150.6,
+    "description": "High sensitivity.Fast response and resume.long life.low cost. Mini size."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/SXBPXzS/640x480-CMOS-Camera-RC-1.jpg",
+    "title": "CMOS Camera",
+    "model": "ROB-00004",
+    "tk": 814.23,
+    "description": "infrared sensor analog output combined  PID algorithm, stable line trackin Onboard modules like line tracking obstacle avoiding needs no messy wiring TB6612FNG dual Hbridge motor driver comparedL298P it's more efficient,more compact,and less heating N20 micro gear motormetal gears, low noise, high accuracy Onboard RGB LEDs, true color lighting, pretty cool"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/LYhD8Qs/L298-N-Motor-Driver-Green-RC.jpg",
+    "title": "L298N Motor Driver",
+    "model": "ROB-00102",
+    "tk": 290.63,
+    "description": "infrared sensor analog output combined  PID algorithm, stable line trackin Onboard modules like line tracking obstacle avoiding needs no messy wiring TB6612FNG dual Hbridge motor driver comparedL298P it's more efficient,more compact,and less heating N20 micro gear motormetal gears, low noise, high accuracy Onboard RGB LEDs, true color lighting, pretty cool"
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/s1vqTYj/image-16-ex.png",
+    "title": "AlphaBot2 robot",
+    "model": "Kit-00044",
+    "tk": 4549.54,
+    "description": "infrared sensor analog output combined  PID algorithm, stable line trackin Onboard modules like line tracking obstacle avoiding needs no messy wiring TB6612FNG dual Hbridge motor driver comparedL298P it's more efficient,more compact,and less heating N20 micro gear motormetal gears, low noise, high accuracy Onboard RGB LEDs, true color lighting, pretty cool"
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/vq39VvM/Cordless-Screwdriver-Set-EE.jpg",
+    "title": "Cordless Screwdriver Set",
+    "model": "TOL-00221",
+    "tk": 1600.6,
+    "description": "True RMS measurement.Audio visual NCV detection.Large LCD with backlight.Full-featured false detection protection for up to 600 V energy surges overvoltage and overcurrent alarm functions.Low battery indication."
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/8NcNT2s/image-15-ex.jpg",
+    "title": "Amazon Alexa Echo Dot 2",
+    "model": "WIR-00090",
+    "tk": 3698.84,
+    "description": "True RMS measurement.Audio visual NCV detection.Large LCD with backlight.Full-featured false detection protection for up to 600 V energy surges overvoltage and overcurrent alarm functions.Low battery indication."
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/rQ0jzqQ/Battery-9-V-1-EE.jpg",
+    "title": "Battery 9V",
+    "model": "MIS-00004",
+    "tk": 71.19,
+    "description": "Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions.Play music from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, TuneIn, and iHeartRadio.Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device.Controls lights, locks, thermostats, and more with compatible connected devices.Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable."
+  }
+]
