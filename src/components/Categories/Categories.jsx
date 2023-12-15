@@ -27,7 +27,7 @@ const Categories = () => {
       </div>
       <div className={dataLength === catag.length && 'hidden'}>
         <div className="text-center mt-4 mb-4">
-          {/* <button onClick={()=>setDataLength(catag.length)} className="btn btn-active btn-secondary">Show All Components</button> */}
+        <button onClick={()=>setDataLength(catag.length)} className="btn btn-active btn-secondary">Show All Components</button> 
         </div>
       </div>
       <div className="flex felx-row gap-4  justify-center mt-8 mb-8">

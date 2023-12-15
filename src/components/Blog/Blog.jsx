@@ -6,7 +6,7 @@ const Blog = () => {
         <div>
             <div className="hero  bg-base-200 mb-4 mt-4">
                 <div className="hero-content flex-col lg:flex-row">
-                    <img src="src/assets/images/Blog (1).jpg" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../../../src/assets/images/Blog (1).jpg" className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-5xl font-bold">Unleashing Tomorrow's Tech Today</h1>
                         <p className="py-6">Explore the latest in cutting-edge technology at our tech shop, where innovation meets convenience.
@@ -19,7 +19,7 @@ const Blog = () => {
             </div>
             <div className="hero bg-base-200 mb-4">
                 <div className="hero-content flex-col lg:flex-row">
-                    <img src="src/assets/images/Blog 2.jpg" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../../../src/assets/images/Blog 2.jpg" className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-5xl font-bold">TechShop Chronicles</h1>
                         <p className="py-6">Explore the latest in cutting-edge technology at our tech shop, where innovation meets convenience.
@@ -32,7 +32,7 @@ const Blog = () => {
             </div>
             <div className="hero  bg-base-200 mb-4">
                 <div className="hero-content flex-col lg:flex-row">
-                    <img src="src/assets/images/Blog 3.jpg" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../../../src/assets/images/Blog 3.jpg" className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-5xl font-bold">Revolutionize Your World</h1>
                         <p className="py-6">Explore the latest in cutting-edge technology at our tech shop, where innovation meets convenience.
@@ -45,7 +45,7 @@ const Blog = () => {
             </div>
             <div className="hero  bg-base-200 mb-4">
                 <div className="hero-content flex-col lg:flex-row">
-                    <img src="src/assets/images/Blog 4.jpg" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../../../src/assets/images/Blog 4.jpg" className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-5xl font-bold">Beyond Imagination</h1>
                         <p className="py-6">Explore the latest in cutting-edge technology at our tech shop, where innovation meets convenience.

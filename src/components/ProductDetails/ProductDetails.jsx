@@ -47,9 +47,10 @@ const ProductDetails = () => {
                         <hr />
                         <div className="mb-4">
                             <h2 className="text-2xl font-semibold mb-4 mt-4">Available Offers:</h2>
-                            <div>
-                                <span>  <img src="src/assets/images/🦆 icon _tags_.png" alt="" /></span>
-                                <p>Bank Offer10% off on HDFC Bank Credit Card EMI Transactions, up to ₹1,500 on orders of ₹7,500 and above</p>
+                            <div className="flex flex-row gap-4">
+                                <img src="../../../src/assets/images/🦆 icon _tags_.png" alt="" />
+                                <p>Bank Offer10% off on HDFC Bank Credit Card EMI Transactions, up to ₹1,500  </p>
+
                             </div>
 
                         </div>

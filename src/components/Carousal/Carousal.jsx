@@ -4,7 +4,7 @@
 const Carousal = () => {
    
     return (
-        <div className="hero w-[1580px] h-[500px]" style={{ backgroundImage: "url('src/assets/images/Hero.png')"}}>
+        <div className="hero w-[1580px] h-[500px]" style={{ backgroundImage: "url('../../../src/assets/images/Hero.png')"}}>
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
                 <div>

@@ -7,7 +7,7 @@ const Login = () => {
            
             <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
              <div class="circle-image">
-              <img src="src/assets/images/Login-Image.jpg" alt="Image" />
+              <img src="../../../src/assets/images/Login-Image.jpg" alt="Image" />
              
             </div>
                 <div className='text-center'>

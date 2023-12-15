@@ -22,7 +22,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 {/* <a className="btn btn-ghost text-xl">RoboTech</a> */}
-                <img className="w-52" src="src/assets/images/logo.png" alt="" />
+                <img className="w-52" src="../../../src/assets/images/logo.png" alt="" />
              
             </div>
             <div className="navbar-center hidden lg:flex">
